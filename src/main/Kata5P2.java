@@ -9,13 +9,13 @@ import view.HistogramDisplay;
 import view.MailHistogramBuilder;
 import view.MailListReader;
 
-public class Kata4 {
+public class Kata5P2 {
 
     Histogram histogram;
     List<Mail> arr;
     
     public static void main(String[] args) {
-        Kata4 kata4 = new Kata4();
+        Kata5P2 kata4 = new Kata5P2();
         kata4.control();
     }
     
